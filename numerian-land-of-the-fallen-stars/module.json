@@ -1,0 +1,35 @@
+{
+  "id": "numerian-land-of-the-fallen-stars",
+  "title": "Numerian land of the fallen stars",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "description": "<p><span style=\"font-family:Bruno Ace\">An adventure where swords and sorcery meet laser pistols</span></p>",
+  "authors": [
+    {
+      "name": "Harper",
+      "email": "javier.harpersotomayor@gmail.com",
+      "discord": "jihs1",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "Numeria-adventure",
+      "label": "Numeria adventure",
+      "path": "packs/Numeria-adventure",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ]
+}
