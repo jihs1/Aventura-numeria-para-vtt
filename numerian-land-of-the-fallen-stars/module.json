@@ -18,8 +18,8 @@
   "flags": {
     "canUpload": true
   },
-  "manifest": "https://raw.githubusercontent.com/tu-usuario/Aventura-numeria-para-vtt/main/numerian-land-of-the-fallen-stars/module.json",
-  "download": "https://github.com/tu-usuario/Aventura-numeria-para-vtt/releases/latest/download/numerian-land-of-the-fallen-stars.zip",
+  "manifest": "https://raw.githubusercontent.com/jihs1/Aventura-numeria-para-vtt/main/numerian-land-of-the-fallen-stars/module.json",
+  "download": "https://github.com/jihs1/Aventura-numeria-para-vtt/releases/latest/download/numerian-land-of-the-fallen-stars.zip",
   "packs": [
     {
       "name": "Numeria-adventure",
